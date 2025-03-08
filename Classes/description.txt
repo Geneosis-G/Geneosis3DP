@@ -1,0 +1,31 @@
+Free copies everywhere!
+
+Humans think they have the best technology on earth, but they are worng... Just take the 3D Printer made by Goats for example: it can print objects in no time, it can provide an infinite ammount of compies, and copies are made with an unbreakable material!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- 3D Printer: Can print copies of the object you lick.
+
+[b]COMMANDS[/b]
+- [b][R]:[/b] Print a copy of the object you are licking.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][Y]:[/b] Print a copy of the object you are licking.
+
+[b]CHARACTERISTICS[/b]
+- Copies are unbreakable (which means if you copy an explosive object, the copy will not explode).
+- You can also make dummy copies of living creatures.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Copy a car, use Morph Goat on the copy... Have fun with the invulnerable car :D[/spoiler]
+- [spoiler]Possessing copies with Ghost Goat will gives you a normal camera! BUT possessing copies of humans will crash the display if you unragdoll and move... Restart map to fix it. (will try to fix that later)[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Copies of living creatures are "frozen ragdolls" so creating a lot of them will generate a lot of lag (can't fix).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod is one of the very first things I tried to do in this game: I wanted to do that in the Cloning Goat mod at the beginning. But my understanding of Unreal Script was too low at this time and I couldn't find a way to make any object copiable...
+Anyway, when I was working on Spy Goat, I found a way to make explosives object that could bee copies of any objects. And I realized that this methods could also be used to produce normal copies of everything :) And that's how I made the copies of static objects.
+Then I thought about making copies of creatures too, I knew the Cloning Goat already did that, but I wanted "dummy" copies, not living copies. So after a few tries I found that the best method for that was to create a "goat" actor, change it's skin and activate "frozen ragdoll" on it.
+[/quote]
